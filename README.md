@@ -1,6 +1,7 @@
 # gradletest
 This is a test readme.
 
+## Run FullNode
 ### Mac
    
 1. Install **[GitHub for Mac](https://mac.github.com/)** then **[fork and clone our repository](https://guides.github.com/activities/forking/)**. 
@@ -11,8 +12,8 @@ This is a test readme.
 
 1. Start IntelliJ Idea. Select [File] -> [Open], then locate to the java-tron folder which you have git cloned to your local drive. Then click [Open] button on the right bottom.
 
-1. Check on [Use auto-import] on the [Import Project from Gradle] dialog. Select JDK 1.8 in the Gradle JVM option. Then click [OK].
+1. Check on [Use auto-import] on the [Import Project from Gradle] dialog. Select JDK 1.8 in the [Gradle JVM] option. Then click [OK].
 
-1. IntelliJ will open the project and start gradle syncing, which will take several minutes, depending on your network connection. After that, select [Gradle] -> [Tasks] -> [build], and then double click [build] option.  The project will start building, which will normal take less than one minute to finish.
+1. IntelliJ will open the project and start gradle syncing, which will take several minutes, depending on your network connection. After that, select [Gradle] -> [Tasks] -> [build], and then double click [build] option.  The project will start building, which will normally take less than one minute to finish.
    
-1. After building finishes, locate "FullNode" in the project structure view panel, which is on the path "java-tron/src/main/java/org.tron/program/FullNode". Select "FullNode", right click on it, and select "Run 'FullNode.main()'", then "FullNode" starts running.
+1. After the building finishes, locate "FullNode" in the project structure view panel, which is on the path "java-tron/src/main/java/org.tron/program/FullNode". Select "FullNode", right click on it, and select "Run 'FullNode.main()'", then "FullNode" starts running.
