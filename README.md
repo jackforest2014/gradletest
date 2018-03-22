@@ -7,7 +7,7 @@ This is a test readme.
    To use Git from the Terminal, see the [Setting up Git](https://help.github.com/articles/set-up-git/) and [Fork a Repo](https://help.github.com/articles/fork-a-repo/) articles.
    If you'd rather not use Git, use the 'Download ZIP' button on the right to get the source directly.
 
-1. Install the latest version of [Xcode](https://itunes.apple.com/us/app/xcode/id497799835).
+1. As this is an IntelliJ project, you'd better install the latest version of [IntelliJ IDEA](https://www.jetbrains.com/idea/), community version is enough.
 
 1. Open your source folder in Finder and double-click on **Setup.command** to download binary content for the engine. You can close the Terminal window afterwards.
 
