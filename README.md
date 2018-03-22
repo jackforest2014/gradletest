@@ -9,7 +9,7 @@ This is a test readme.
 
 1. As this is an IntelliJ project, you'd better install the latest version of [IntelliJ IDEA](https://www.jetbrains.com/idea/), community version is enough.
 
-1. Open your source folder in Finder and double-click on **Setup.command** to download binary content for the engine. You can close the Terminal window afterwards.
+1. Start IntelliJ Idea. Select [File] -> [Open], then locate to the java-tron folder which you have git cloned to your local drive.
 
    If you downloaded the source as a .zip file, you may see a warning about it being from an unidentified developer (because .zip files on GitHub aren't digitally signed).
    To work around it, right-click on Setup.command, select Open, then click the Open button.
