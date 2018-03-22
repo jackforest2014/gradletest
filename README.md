@@ -5,11 +5,11 @@
 
 1. As this is an IntelliJ project, you'd better install the latest version of [IntelliJ IDEA](https://www.jetbrains.com/idea/), community version is enough.
 
-1. Start IntelliJ Idea. Select [File] -> [Open], then locate to the java-tron folder which you have git cloned to your local drive. Then click [Open] button on the right bottom.
+1. Start IntelliJ Idea. Select `File` -> `Open`, then locate to the java-tron folder which you have git cloned to your local drive. Then click `Open` button on the right bottom.
 
-1. Check on [Use auto-import] on the [Import Project from Gradle] dialog. Select JDK 1.8 in the [Gradle JVM] option. Then click [OK].
+1. Check on `Use auto-import` on the `Import Project from Gradle` dialog. Select JDK 1.8 in the `Gradle JVM` option. Then click `OK`.
 
-1. IntelliJ will open the project and start gradle syncing, which will take several minutes, depending on your network connection. After that, select [Gradle] -> [Tasks] -> [build], and then double click [build] option.  The project will start building, which will normally take less than one minute to finish.
+1. IntelliJ will open the project and start gradle syncing, which will take several minutes, depending on your network connection. After that, select `Gradle` -> `Tasks` -> `build`, and then double click `build` option.  The project will start building, which will normally take less than one minute to finish.
 
 # How to Run
 ## run as a full node
